@@ -1,0 +1,2 @@
+# projeto-react
+Projeto simples feito durante as aulas de DESENVOLVIMENTO DE SISTEMAS DE INFORMAÇÃO AVANÇADOS II do curso de SISTEMAS DE INFORMAÇÃO no CENTRO UNIVERSITÁRIO DE PATOS DE MINAS - UNIPAM
